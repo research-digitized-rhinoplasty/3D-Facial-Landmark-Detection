@@ -32,3 +32,9 @@ This code repository includes pseudocode and Phyton implementations for the foll
 - Zygion (left/right)
 
 The algorithms assume that the face 3D models are placed in the correct pose and orientation on the x, y, and z coordinate systems, facing the z-axis.
+
+
+This study has been published in IEEE Access, please use the following to cite:
+
+- O. Topsakal, T. C. Akinci, J. Murphy, T. L. -J. Preston and M. M. Celikoyar, "Detecting Facial Landmarks on 3D Models Based on Geometric Properties—A Review of Algorithms, Enhancements, Additions and Open-Source Implementations," in IEEE Access, vol. 11, pp. 25593-25603, 2023, doi: 10.1109/ACCESS.2023.3255099 (10.1109/ACCESS.2023.3255099).
+
